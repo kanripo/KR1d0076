@@ -2,8 +2,6 @@
 #+TITLE: 大戴禮記
 #+DATE: 2015-09-23 09:38:38
 #+PROPERTY: JUAN 1
-
-<pb:KR1d0076_SBCK_000-2b>
 <md:KR1d0076_WYG_001-1a>¶
 <pb:KR1d0076_SBCK_001-1a>
 大戴禮記卷第一¶
