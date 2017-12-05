@@ -4,7 +4,6 @@
 #+PROPERTY: LASTPB  <pb:KR1d0076_SBCK_006-10a>
 #+PROPERTY: JUAN 8
 <pb:KR1d0076_SBCK_008-1a>
-# SB1_0049-018.png
 大戴禮記卷第<md:KR1d0076_WYG_008-1a>¶八¶
 　　¶　子張問入官第六十五¶
 　　　盛德第六十六¶
